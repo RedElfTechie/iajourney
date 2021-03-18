@@ -9,4 +9,3 @@ For this post, the following configuration is used:
 -  OMRON Input Card, ID5142-1;
 -  OMRON Output Card, OC4633;
 -  OMRON Power Feed, PF0630;
-
